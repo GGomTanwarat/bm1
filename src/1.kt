@@ -1,5 +1,5 @@
 //fun main() {
-//    val a = 10 testupdate GGomTanwarat/bootcamp1
+//    val a = 10
 //    if ( (a > 5) && (a%2 == 0) ) {
 //        print("$a is even and greater than 5.")
 //    }
